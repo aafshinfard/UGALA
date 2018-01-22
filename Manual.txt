@@ -1,0 +1,3 @@
+# 1 : Use the codes to splice a Genome to its comprising l-mers (e.g 25-mers) and then save only the segments for the first n iteration of the algorithm.
+# 2 : for prototypng, send all the reads to bowtie with having the 2nd genome as reference.
+# 3 : Run Algorithm to check how many intervals are being solved when considering the unique matches of each step
