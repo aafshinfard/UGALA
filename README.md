@@ -1,6 +1,6 @@
 # UGALA: Ultrafast Genome Alignment with Limited Anchoring.
 
-# Under Private Developement, will be released as Open-source.
+## Under Private Developement, will be released as Open-source.
 
 ## Features
 
@@ -20,11 +20,12 @@
 
 ## Cite
 
-* pre-print will be available in mid-2018.
+* pre-print will be available before mid-2018.
 
 * collaboration and assistant? contact Authors.
 
 ## Copyright (c) 2017
 
-####  Amirhosein Afshinfard   <afshinfard (at) gmail.com>
+####  Amirhossein Afshinfard   <afshinfard (at) gmail.com>
+####  Seyed Abolfazl Motahari  <smotahari (at) gmail.com>
 
