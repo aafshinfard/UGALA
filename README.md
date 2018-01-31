@@ -2,6 +2,8 @@
 
 ## Under Private Developement, will be released as Open-source.
 
+See manual.txt to use the code along with bowtie or any other read aligner to run the main cycle of the algorithm for now.
+
 ## Features
 
 * Very fast alignment and homology reporting by comparing only a small proportion of the input genomes.
