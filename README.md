@@ -14,7 +14,7 @@ This was a part of an accepted Master's Thesis (A+ - 19.5/20) in CS, AI at Shrif
 
 * Working for different resolution and thus with different speeds.
 
-* E.g: 260x faster than a simple blast when searching for > 25kb rearrangements.
+* E.g: 105x faster than a simple Blast when searching for > 5kb rearrangements between an E.Coli and an E.Albertii (85% the genomes solved). See "Results" folder.
 
 ## Author
 
